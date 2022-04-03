@@ -1,4 +1,4 @@
 # Genky-project
 Genky-project
 
-Link - https://b1ackbug.github.io/Genky-project/
+Link - https://faridgarayev.github.io/Genky-project/
